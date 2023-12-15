@@ -2,3 +2,4 @@
 pip install -U gradient
 >
 gradient apiKey 5de95511832f6b66a0e846bb5b7e0a
+gradient workflows run --id 4a5d1a03-06ee-4102-b291-79365bd9954c --path ./workflow.yaml
